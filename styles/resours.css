@@ -167,3 +167,25 @@ main > section{
 .sponsor-company img{
     filter: grayscale(100%);
 }
+#Features-section-title{
+    border-left: 5px solid chocolate;
+    padding-left: 20px;
+}
+.Features-card .Features-title{
+    font-weight: 600px;
+    font-size: 1.25rem;
+    margin-top: 0;
+    margin-bottom: 0;
+    
+    
+}
+.Features-card{
+    padding: 30px;
+    box-shadow: 0 4px 30px 0 rgba(0, 0, 0, 0.06);
+    margin-bottom: 20px;
+    border-radius: 8px;
+
+}
+.Features{
+    gap: 140px;
+}
